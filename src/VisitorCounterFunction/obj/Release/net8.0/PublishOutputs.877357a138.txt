@@ -1,0 +1,10 @@
+C:\Users\JavierM1\Desktop\aws project\VisitorCounterFunction\src\VisitorCounterFunction\publish\VisitorCounterFunction.dll
+C:\Users\JavierM1\Desktop\aws project\VisitorCounterFunction\src\VisitorCounterFunction\publish\VisitorCounterFunction.deps.json
+C:\Users\JavierM1\Desktop\aws project\VisitorCounterFunction\src\VisitorCounterFunction\publish\VisitorCounterFunction.runtimeconfig.json
+C:\Users\JavierM1\Desktop\aws project\VisitorCounterFunction\src\VisitorCounterFunction\publish\VisitorCounterFunction.pdb
+C:\Users\JavierM1\Desktop\aws project\VisitorCounterFunction\src\VisitorCounterFunction\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\JavierM1\Desktop\aws project\VisitorCounterFunction\src\VisitorCounterFunction\publish\Amazon.Lambda.Core.dll
+C:\Users\JavierM1\Desktop\aws project\VisitorCounterFunction\src\VisitorCounterFunction\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\JavierM1\Desktop\aws project\VisitorCounterFunction\src\VisitorCounterFunction\publish\AWSSDK.Core.dll
+C:\Users\JavierM1\Desktop\aws project\VisitorCounterFunction\src\VisitorCounterFunction\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\JavierM1\Desktop\aws project\VisitorCounterFunction\src\VisitorCounterFunction\publish\Newtonsoft.Json.dll
