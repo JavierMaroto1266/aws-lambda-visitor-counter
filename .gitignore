@@ -1,0 +1,29 @@
+# Build output
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+**/publish/
+
+# IDE files
+.vs/
+*.user
+*.suo
+
+# Packages & restores
+packages/
+*.nupkg
+project.lock.json
+
+# Logs
+*.log
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Compiled & deploy artifacts
+*.dll
+*.pdb
+*.exe
+*.zip
